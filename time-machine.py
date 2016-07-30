@@ -21,7 +21,7 @@ def travelToDate(date):
     print("Time travelling to %s" % (date))
     #start time machine code
     
-    #end time machie code
+    #end time machine code
 
 def main():
     date = raw_input("When do you want to go? (Format: YYYY-MM-DD hh:mm:ss): ")
